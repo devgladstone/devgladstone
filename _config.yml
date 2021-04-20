@@ -2,7 +2,7 @@ title: Derek Gladstone # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Quirky and creative with a passion for coding.
-  
+  <br><br>
   <a href="https://www.linkedin.com/in/derekgladstone/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
